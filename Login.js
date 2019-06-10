@@ -88,7 +88,7 @@ const styles = StyleSheet.create({
     },
     containerInputs:{
         marginBottom: 20
-    }
+    },
     singUpButton: {
 
     }
