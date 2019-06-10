@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1094764786278",
+    "firebase_url": "https://agendareact.firebaseio.com",
+    "project_id": "agendareact",
+    "storage_bucket": "agendareact.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094764786278:android:b8c232b9f70ced2b",
+        "android_client_info": {
+          "package_name": "agenda.react.v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094764786278-qslh4i7bvtv1gee7vc3j151p4min93pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz9eH7wJ3xgOEM58WByaLGKEI6mXkTk9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094764786278-qslh4i7bvtv1gee7vc3j151p4min93pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
